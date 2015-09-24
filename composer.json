@@ -1,0 +1,6 @@
+{
+    "name": "jeroendelau/starling-graphics-extension",
+    "extra": {
+		"as-source-path":"extension/src"
+    }
+}
