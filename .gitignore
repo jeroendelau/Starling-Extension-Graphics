@@ -2,6 +2,12 @@
 bin-debug/
 bin-release/
 starling/doc/html/
+.actionScriptProperties
+.flexLibProperties
+.gradle/
+.project
+build/
+extension/bin/z_starling_graphics_extensions.swc
 
 # Project property files
 .settings/
